@@ -259,6 +259,12 @@ PLACEMENT-PRO/
   java -version
   ```
 
+### 📥 Clone Repository
+```bash
+git clone https://github.com/Zoid01-c/placement-pro-campus-recruitment-system.git
+cd placement-pro-campus-recruitment-system
+```
+
 ### 💻 Windows Setup
 ```cmd
 # 1. Compile all source files into bin/
@@ -392,12 +398,22 @@ The application automatically seeds realistic records on its first execution:
 
 ## 👥 Four-Member Collaboration Matrix
 
-| Team Member | Module & Responsibility | Implemented Files & Deliverables |
-| :--- | :--- | :--- |
-| **Member 1** | **Student Module Lead** | <ul><li>`models/Student.java`</li><li>`interfaces/StudentOperations.java`</li><li>`services/StudentService.java`</li><li>`cli/StudentMenu.java`</li><li>Resume Readiness Algorithm & Skill-Gap Analysis</li></ul> |
-| **Member 2** | **Company Module Lead** | <ul><li>`models/Company.java`</li><li>`interfaces/CompanyOperations.java`</li><li>`services/CompanyService.java`</li><li>`cli/CompanyMenu.java`</li><li>Drive Publication, Applicant Screening & Status Transitions</li></ul> |
-| **Member 3** | **Admin & Placement Lead** | <ul><li>`models/Admin.java`, `models/PlacementDrive.java`</li><li>`interfaces/AdminOperations.java`</li><li>`services/AdminService.java`, `services/PlacementService.java`</li><li>`cli/AdminMenu.java`</li><li>Eligibility Engine, Drive Activation & `Comparator` Sorting</li></ul> |
-| **Member 4** | **Architecture & Integration Lead** | <ul><li>`Main.java`, `cli/MainMenu.java`</li><li>`models/User.java`, `Application.java`, `Notification.java`</li><li>`interfaces/Authentication.java`, `Searchable.java`, `ReportGenerator.java`</li><li>`services/AuthenticationService.java`, `ApplicationService.java`, `NotificationService.java`, `ReportService.java`</li><li>`utils/FileManager.java`, `ConsoleUI.java`, `InputValidator.java`, `IDGenerator.java`</li><li>All custom exceptions, data seeding & documentation</li></ul> |
+<div align="center">
+
+| [<img src="https://github.com/Zoid01-c.png" width="90px;" alt="Rehan Khan"/><br /><sub><b>Rehan Khan</b></sub><br /><sub>@Zoid01-c (Lead)</sub>](https://github.com/Zoid01-c) | [<img src="https://github.com/devilom0805.png" width="90px;" alt="Om Wakchaure"/><br /><sub><b>Om Wakchaure</b></sub><br /><sub>@devilom0805</sub>](https://github.com/devilom0805) | [<img src="https://github.com/Raj200626.png" width="90px;" alt="Raj Waghere"/><br /><sub><b>Raj Waghere</b></sub><br /><sub>@Raj200626</sub>](https://github.com/Raj200626) | [<img src="https://github.com/divyakhole23.png" width="90px;" alt="Divya Khole"/><br /><sub><b>Divya Khole</b></sub><br /><sub>@divyakhole23</sub>](https://github.com/divyakhole23) |
+| :---: | :---: | :---: | :---: |
+| **System Architecture & Integration Lead** | **Student Module Lead** | **Company Module Lead** | **Admin & Placement Lead** |
+
+</div>
+
+<br>
+
+| Team Member | Full Name | GitHub Profile | Module & Assigned Responsibility | Implemented Files & Deliverables |
+| :--- | :--- | :--- | :--- | :--- |
+| **Zoid01-c** *(Project Lead)* | **Rehan Khan** | [@Zoid01-c](https://github.com/Zoid01-c) | **Architecture & Integration Lead** | <ul><li>`Main.java`, `cli/MainMenu.java`</li><li>`models/User.java`, `Application.java`, `Notification.java`</li><li>`interfaces/Authentication.java`, `Searchable.java`, `ReportGenerator.java`</li><li>`services/AuthenticationService.java`, `ApplicationService.java`, `NotificationService.java`, `ReportService.java`</li><li>`utils/FileManager.java`, `ConsoleUI.java`, `InputValidator.java`, `IDGenerator.java`</li><li>All custom exceptions, data seeding & documentation</li></ul> |
+| **devilom0805** | **Om Wakchaure** | [@devilom0805](https://github.com/devilom0805) | **Student Module Lead** | <ul><li>`models/Student.java`</li><li>`interfaces/StudentOperations.java`</li><li>`services/StudentService.java`</li><li>`cli/StudentMenu.java`</li><li>Resume Readiness Algorithm & Skill-Gap Analysis</li></ul> |
+| **Raj200626** | **Raj Waghere** | [@Raj200626](https://github.com/Raj200626) | **Company Module Lead** | <ul><li>`models/Company.java`</li><li>`interfaces/CompanyOperations.java`</li><li>`services/CompanyService.java`</li><li>`cli/CompanyMenu.java`</li><li>Drive Publication, Applicant Screening & Status Transitions</li></ul> |
+| **divyakhole23** | **Divya Khole** | [@divyakhole23](https://github.com/divyakhole23) | **Admin & Placement Lead** | <ul><li>`models/Admin.java`, `models/PlacementDrive.java`</li><li>`interfaces/AdminOperations.java`</li><li>`services/AdminService.java`, `services/PlacementService.java`</li><li>`cli/AdminMenu.java`</li><li>Eligibility Engine, Drive Activation & `Comparator` Sorting</li></ul> |
 
 ---
 
