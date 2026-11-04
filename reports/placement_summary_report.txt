@@ -1,0 +1,26 @@
+==================================================================
+             PLACEMENT PRO - SYSTEM SUMMARY REPORT
+==================================================================
+
+Generated on: Wed Nov 04 19:17:29 IST 2026
+------------------------------------------------------------------
+1. GENERAL METRICS
+   Total Registered Students    : 8
+   Total Registered Companies   : 4
+   Total Placement Drives       : 5 (Active: 5)
+   Highest CTC Package Offered  : 28.50 LPA
+   Average CTC Package Offered  : 17.50 LPA
+
+------------------------------------------------------------------
+2. APPLICATION METRICS
+   Total Applications Processed : 6
+   - In Applied Stage           : 2
+   - Shortlisted for Interview  : 1
+   - Successfully Selected (Offers) : 2
+   - Rejected                   : 1
+
+------------------------------------------------------------------
+3. PLACEMENT PERFORMANCE
+   Unique Students Placed       : 2
+   Campus Placement Rate        : 25.00%
+==================================================================
