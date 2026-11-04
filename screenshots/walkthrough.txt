@@ -1,0 +1,102 @@
+==================================================================
+PLACEMENT PRO - TERMINAL DEMONSTRATION & EVALUATION WALKTHROUGH
+==================================================================
+
+SCENARIO 1: SYSTEM STARTUP & PORTAL SELECTION
+------------------------------------------------------------------
++================================================================+
+|             PLACEMENT PRO - RECRUITMENT MANAGEMENT             |
++================================================================+
+              Welcome to Placement Pro
+     Your Career. Your Opportunity. Your Future.
+------------------------------------------------------------------
+  SELECT PORTAL:
+    [1] Student Portal        (Browse drives, apply & gap analysis)
+    [2] Company Portal        (Post drives, review candidates & shortlist)
+    [3] Administrator Portal  (System statistics, drives & accounts)
+    [4] About Project & Training Highlights
+    [0] Exit Application
+------------------------------------------------------------------
+
+
+SCENARIO 2: STUDENT DASHBOARD & RESUME READINESS
+------------------------------------------------------------------
++================================================================+
+|               STUDENT DASHBOARD - PLACEMENT PRO                |
++================================================================+
+  Welcome, Rahul Sharma
+  Student ID      : STU1001
+  Branch          : Computer Science
+  CGPA            : 8.85 / 10.0
+  Active Backlogs : 0
+  Notifications   : 2 Unread
+  Progress: [#######################--] 94/100
+------------------------------------------------------------------
+  RECRUITMENT & DRIVES:
+    [1] View All Available Placement Drives
+    [2] View Eligible Drives Only
+    [3] Search Placement Drives (Company / Role / Location)
+    [4] Apply for a Placement Drive
+    [5] My Applications & Status Tracking
+
+  CAREER READINESS & ANALYTICS:
+    [6] Skill-Gap Analysis for a Drive
+    [7] Resume Readiness Breakdown & Formula
+
+  PROFILE & NOTIFICATIONS:
+    [8] View Complete Profile
+    [9] Manage Technical Skills (Add / Remove)
+   [10] Update Academic & Contact Details
+   [11] Notifications Inbox (2 unread)
+    [0] Logout to Main Menu
+
+
+SCENARIO 3: SKILL-GAP ANALYSIS AGAINST GOOGLE INDIA DRIVE
+------------------------------------------------------------------
+--- SKILL-GAP ANALYSIS ---------------------------------------
+  ANALYSIS FOR: Google India (Software Engineer - Campus)
+  Required Skills : Distributed Systems, Java, SQL, System Design
+  Your Skills     : Docker, Git, Java, SQL, Spring Boot
+------------------------------------------------------------------
+  Matching Skills (2): Java, SQL
+  Missing Skills  (2): Distributed Systems, System Design
+
+  Progress: [############-------------] 50/100
+
+  Personalized Improvement Recommendations:
+   * Acquire fundamental knowledge and projects in: Distributed Systems
+   * Acquire fundamental knowledge and projects in: System Design
+
+
+SCENARIO 4: COMPANY CANDIDATE EVALUATION & SHORTLISTING
+------------------------------------------------------------------
+--- APPLICANTS BY PLACEMENT DRIVE -----------------------------
+  Select from your drives:
+   * [DRV3001] Software Engineer - Campus
+  Enter Drive ID: DRV3001
+  App ID     | Student ID | Candidate Name       | Status           | Applied On  
+------------------------------------------------------------------
+  APP4001    | STU1001    | Rahul Sharma         | [* SHORTLISTED]  | 2026-11-01  
+    |-> Remarks: Cleared preliminary online coding assessment.
+  APP4002    | STU1006    | Sneha Kulkarni       | [+ SELECTED]     | 2026-11-01  
+    |-> Remarks: Selected following technical interviews.
+
+
+SCENARIO 5: ADMINISTRATOR LIVE ANALYTICS & PLACEMENT CONVERSION
+------------------------------------------------------------------
+--- CAMPUS PLACEMENT LIVE ANALYTICS --------------------------
+  Registered Students        : 8
+  Registered Companies       : 4
+  Total Placement Drives     : 5 (Active: 5)
+  Highest Package (CTC)      : 28.50 LPA
+  Average Package (CTC)      : 17.50 LPA
+------------------------------------------------------------------
+  Total Applications Filed   : 6
+  Applications Under Review  : 2
+  Candidates Shortlisted     : 1
+  Job Offers Extended        : 2
+  Candidates Rejected        : 1
+------------------------------------------------------------------
+  Unique Placed Students     : 2
+  Placement Conversion Rate  : 25.00%
+  Progress: [######-------------------] 25/100
