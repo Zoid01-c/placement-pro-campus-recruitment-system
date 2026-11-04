@@ -1,0 +1,6 @@
+NOT5006|STU1001|Application Update: SELECTED|Your application for Software Engineer - Campus at Google India was updated to SELECTED. Note: Exceptional performance in system design and DS-Algo rounds. Offered SDE Role!|2026-11-04 19:17|false
+NOT5005|STU1001|Application Submitted Successfully|You have applied for Digital Systems Engineer at TCS Digital. Application ID: APP4006|2026-11-04 19:17|false
+NOT5001|ALL|Placement Season 2026 Commenced|Campus placement drives for the 2026 graduating batch are now live. Keep your profile updated.|2026-11-01 09:00|false
+NOT5002|STU1001|Application Status Updated|Your application for Google India (Software Engineer - Campus) has been SHORTLISTED!|2026-11-02 14:30|false
+NOT5003|STU1006|Offer Letter Issued|Congratulations! You have been SELECTED for Google India. Report to T&P Cell.|2026-11-03 16:00|false
+NOT5004|STU1002|Microsoft IDC Interview Scheduled|Your application for Microsoft SDE-1 is SHORTLISTED. Check your email for call link.|2026-11-03 11:15|false

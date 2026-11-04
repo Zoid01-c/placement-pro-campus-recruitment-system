@@ -1,0 +1,8 @@
+STU1001|Rahul Sharma|rahul.sharma@college.edu|pass123|Computer Science|8.85|0|2026|9876500001|Java,Git,Docker,Spring Boot,SQL
+STU1002|Priya Patel|priya.patel@college.edu|pass123|Information Technology|9.20|0|2026|9876500002|Machine Learning,React,AWS,Python,SQL
+STU1003|Vikram Aditya|vikram.aditya@college.edu|pass123|Computer Science|7.60|0|2026|9876500003|Java,HTML/CSS,JavaScript,SQL
+STU1004|Ananya Iyer|ananya.iyer@college.edu|pass123|Electronics & Communication|8.40|0|2026|9876500004|C++,Embedded Systems,Python,IoT
+STU1005|Rohan Mehta|rohan.mehta@college.edu|pass123|Information Technology|6.80|1|2026|9876500005|Java,Web Development,SQL
+STU1006|Sneha Kulkarni|sneha.k@college.edu|pass123|Computer Science|9.45|0|2026|9876500006|Java,System Design,Distributed Systems,AWS,Kubernetes
+STU1007|Amit Kumar|amit.kumar@college.edu|pass123|Mechanical Engineering|7.20|0|2026|9876500007|AutoCAD,Data Analysis,MATLAB,Python
+STU1008|Tanvi Verma|tanvi.verma@college.edu|pass123|Electronics & Communication|8.10|0|2026|9876500008|C++,VLSI,Linux,Python

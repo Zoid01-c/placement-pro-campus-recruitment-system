@@ -1,0 +1,4 @@
+COM2001|Google India|recruit@google.com|pass123|Software & Cloud|Bangalore|Global leader in technology, internet search, and AI innovation.|HR Campus Lead
+COM2002|Microsoft IDC|careers@microsoft.com|pass123|Software & Enterprise|Hyderabad|Empowering every person and organization on the planet to achieve more.|University Relations Manager
+COM2003|TCS Digital|campus@tcs.com|pass123|IT Services & Consulting|Mumbai|Tata Consultancy Services high-growth digital transformation wing.|Campus Talent Acquisition
+COM2004|Infosys Technologies|recruitment@infosys.com|pass123|Information Technology|Pune|Global leader in next-generation digital services and consulting.|Senior HR Specialist

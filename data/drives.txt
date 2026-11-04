@@ -1,0 +1,5 @@
+DRV3001|COM2001|Google India|Software Engineer - Campus|28.50|8.50|0|Bangalore|2026-12-15|true|Computer Science,Information Technology|Java,System Design,Distributed Systems,SQL
+DRV3002|COM2002|Microsoft IDC|Software Development Engineer (SDE-1)|24.00|8.00|0|Hyderabad|2026-12-20|true|Electronics & Communication,Computer Science,Information Technology|C++,AWS,Python,SQL
+DRV3003|COM2003|TCS Digital|Digital Systems Engineer|7.50|7.00|0|Pan India|2026-12-10|true|Electronics & Communication,Computer Science,Mechanical Engineering,Information Technology|Java,Python,SQL
+DRV3004|COM2004|Infosys Technologies|Specialist Programmer|9.50|7.50|1|Pune / Bangalore|2026-12-05|true|Computer Science,Information Technology|Java,React,SQL
+DRV3005|COM2002|Microsoft IDC|Cloud Solution Engineer|18.00|7.80|0|Bangalore|2026-12-25|true|Computer Science,Information Technology|Docker,AWS,Python

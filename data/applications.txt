@@ -1,0 +1,6 @@
+APP4001|STU1001|Rahul Sharma|DRV3001|Google India|Software Engineer - Campus|SELECTED|2026-11-01|2026-11-04 19:17|Exceptional performance in system design and DS-Algo rounds. Offered SDE Role!
+APP4002|STU1006|Sneha Kulkarni|DRV3001|Google India|Software Engineer - Campus|SELECTED|2026-11-01|2026-11-01|Selected following technical interviews.
+APP4003|STU1002|Priya Patel|DRV3002|Microsoft IDC|Software Development Engineer (SDE-1)|SHORTLISTED|2026-11-02|2026-11-02|Invited for virtual technical round.
+APP4004|STU1003|Vikram Aditya|DRV3003|TCS Digital|Digital Systems Engineer|APPLIED|2026-11-03|2026-11-03|Application submitted successfully.
+APP4005|STU1005|Rohan Mehta|DRV3004|Infosys Technologies|Specialist Programmer|REJECTED|2026-11-03|2026-11-03|Did not meet technical interview cutoff.
+APP4006|STU1001|Rahul Sharma|DRV3003|TCS Digital|Digital Systems Engineer|APPLIED|2026-11-04|2026-11-04|Application submitted successfully.
